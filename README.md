@@ -1,70 +1,222 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [todo list](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-In the project directory, you can run:
+Modify this file to match your project and remove sections that don't apply.
 
-### `npm start`
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+OPTIONAL SECTIONS:
+- FAQ
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+After you're finished please remove all the comments and instructions!
+-->
 
-### `npm test`
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <h3><b>Todo List</b></h3>
 
-### `npm run build`
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- TABLE OF CONTENTS -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 📗 Table of Contents
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-### `npm run eject`
+<!-- PROJECT DESCRIPTION -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 📖 [Todo List] <a name="about-project"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+this application is used to perform besics calculations in Javascript with React library
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠 Built With <a name="built-with"></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Tech Stack <a name="tech-stack"></a>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<details>
+  <summary>HTML</summary>
+  
+</details>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<details>
+  <summary>CSS</summary>
 
-### Code Splitting
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<details>
+<summary>Git&Github</summary>
+ 
+</details>
 
-### Analyzing the Bundle Size
+<details>
+<summary>Javascript</summary>
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<details>
+<summary>React</summary>
+</details>
 
-### Making a Progressive Web App
+<details>
+<summary>Webpack</summary>
+</details>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- Features -->
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Key Features <a name="key-features"></a>
+
+- Set up 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+`npm install`
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+```cd my-folder```
+
+
+```git clone https://github.com/danielsafari143/math.git```
+
+
+### Install
+
+Install this project with:
+
+`cd my-project`
+
+
+`npm install`
+
+
+### Usage
+
+To run the project, execute the following command:
+
+`live server`
+
+`npm start`
+
+### Run tests
+
+To run tests, run the following command:
+
+`npm run test`
+
+`npm install --save-dev hint@7.x`
+
+`npx stylelint "**/*.{css,scss}"`
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
 
-### `npm run build` fails to minify
+`github pages`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Safari Hamuli**
+
+- GitHub: [@githubhandle](https://github.com/danielsafari143)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/safari-daniel-a01744251/)
+- GitHub: [@githubhandle](https://github.com/danielsafari143)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/safari-daniel-a01744251/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Set up react app]**
+ [ ] **[Components ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+Most of us are pretty good at judging whether a project is relevant for us. We might not be the master of it but we might recognize that we’ve done something similar before and feel confident that we can pick it up and help.If you can’t find anything you think you are good at, consider looking at different projects that require less technical skill.If relevant for the project, you can also prepare some samples specific to the project to impress the client.The trick is to prepare some that are slightly different or watermarked, so they can’t use them in the project but close enough that they can see the potential If you like this project, kindly give it a star..
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank my colleague and Microverse for the opportunity
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
